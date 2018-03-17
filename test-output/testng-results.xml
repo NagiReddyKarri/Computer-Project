@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Automation Suite" duration-ms="135040" started-at="2018-03-16T16:30:37Z" finished-at="2018-03-16T16:32:53Z">
+    <groups>
+    </groups>
+    <test name="Regression suite" duration-ms="135040" started-at="2018-03-16T16:30:37Z" finished-at="2018-03-16T16:32:53Z">
+      <class name="TestCases.TestScripts">
+        <test-method status="PASS" signature="AddCompueter()[pri:0, instance:TestCases.TestScripts@b39c39]" name="AddCompueter" duration-ms="18321" started-at="2018-03-16T22:00:37Z" finished-at="2018-03-16T22:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCompueter -->
+        <test-method status="PASS" signature="EditComputername()[pri:1, instance:TestCases.TestScripts@b39c39]" name="EditComputername" duration-ms="10364" started-at="2018-03-16T22:00:56Z" finished-at="2018-03-16T22:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditComputername -->
+        <test-method status="PASS" signature="DelComputername()[pri:2, instance:TestCases.TestScripts@b39c39]" name="DelComputername" duration-ms="10086" started-at="2018-03-16T22:01:06Z" finished-at="2018-03-16T22:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DelComputername -->
+        <test-method status="PASS" signature="ComputerCount()[pri:3, instance:TestCases.TestScripts@b39c39]" name="ComputerCount" duration-ms="12558" started-at="2018-03-16T22:01:16Z" finished-at="2018-03-16T22:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComputerCount -->
+        <test-method status="PASS" signature="invalidDatevalidation()[pri:4, instance:TestCases.TestScripts@b39c39]" name="invalidDatevalidation" duration-ms="8991" started-at="2018-03-16T22:01:29Z" finished-at="2018-03-16T22:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidDatevalidation -->
+        <test-method status="PASS" signature="BlanknameInAddComputer()[pri:5, instance:TestCases.TestScripts@b39c39]" name="BlanknameInAddComputer" duration-ms="18314" started-at="2018-03-16T22:01:38Z" finished-at="2018-03-16T22:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlanknameInAddComputer -->
+        <test-method status="PASS" signature="BlanknameInEditComputer()[pri:6, instance:TestCases.TestScripts@b39c39]" name="BlanknameInEditComputer" duration-ms="13056" started-at="2018-03-16T22:01:56Z" finished-at="2018-03-16T22:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlanknameInEditComputer -->
+        <test-method status="PASS" signature="invalidDateinEditComp()[pri:7, instance:TestCases.TestScripts@b39c39]" name="invalidDateinEditComp" duration-ms="8863" started-at="2018-03-16T22:02:09Z" finished-at="2018-03-16T22:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidDateinEditComp -->
+        <test-method status="PASS" signature="invalidSearch()[pri:8, instance:TestCases.TestScripts@b39c39]" name="invalidSearch" duration-ms="11930" started-at="2018-03-16T22:02:18Z" finished-at="2018-03-16T22:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearch -->
+        <test-method status="PASS" signature="CancelbuttonValidation()[pri:9, instance:TestCases.TestScripts@b39c39]" name="CancelbuttonValidation" duration-ms="22557" started-at="2018-03-16T22:02:30Z" finished-at="2018-03-16T22:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CancelbuttonValidation -->
+      </class> <!-- TestCases.TestScripts -->
+    </test> <!-- Regression suite -->
+  </suite> <!-- Regression Automation Suite -->
+</testng-results>
